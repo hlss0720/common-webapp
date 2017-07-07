@@ -1,0 +1,7 @@
+com\unionpay\web\SystemUserController.class
+com\unionpay\common\LogAspect.class
+com\unionpay\dao\SystemUserDao.class
+com\unionpay\service\SystemUserService.class
+com\unionpay\entity\SystemUser.class
+com\unionpay\dao\SystemUserDaoImpl.class
+com\unionpay\service\impl\SystemUserServiceImpl.class
